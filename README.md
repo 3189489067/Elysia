@@ -1,2 +1,3 @@
 # Elysia
-Config files for my GitHub profile.
+这是一个新手小白
+会放一些学习时写的基础代码
