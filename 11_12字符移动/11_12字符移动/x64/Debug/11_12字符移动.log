@@ -1,0 +1,3 @@
+﻿  charactermovement.c
+C:\Users\31894\Desktop\test\2025\test11_12\11_12字符移动\11_12字符移动\charactermovement.c(10,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  11_12字符移动.vcxproj -> C:\Users\31894\Desktop\test\2025\test11_12\11_12字符移动\x64\Debug\11_12字符移动.exe
