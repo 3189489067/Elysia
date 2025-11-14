@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="leapyear/leapyear.vcxproj" Id="ed1aa7fe-6fbe-4988-97a7-78e97adaf816" />
+</Solution>
