@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lowcomputer/lowcomputer.vcxproj" Id="5ea59f72-b3d2-4986-bd4b-c48f76964307" />
+</Solution>
