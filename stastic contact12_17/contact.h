@@ -2,6 +2,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<assert.h>
+#include<stdlib.h>
 #define MAX_NAME 20
 #define MAX_SEX 10
 #define MAX_TEL 20
@@ -20,17 +21,18 @@ typedef struct Contact
 	Peo data[100];
 	int count;
 }Con;
-//³õÊ¼»¯
+//åˆå§‹åŒ–
 void Inticontact(Con* pc);
-//Ôö¼ÓÁªÏµÈË
+//å¢åŠ è”ç³»äºº
 void Addcontact(Con* pc);
-//ÏÔÊ¾
+//æ˜¾ç¤º
 void ShowContract(Con* pc);
-//É¾³ıÁªÏµÈË
+//åˆ é™¤è”ç³»äºº
 void DelContract(Con* pc);
-//²éÕÒÁªÏµÈË
+//æŸ¥æ‰¾è”ç³»äºº
 static int FindContract(Con* pc);
-//ÅÅĞò
+//æ’åº
 void SortContract(Con* pc);
-//ËÑË÷ÁªÏµÈË
+//æœç´¢è”ç³»äºº
+
 void SearchContract(Con* pc);
